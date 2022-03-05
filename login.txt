@@ -1,0 +1,6 @@
+-> create a basic login page.
+    - link a font style from cdnjs/lib/font-awesome   in the <head>
+    -in body part create a container
+        -7070559797
+-> add design to it.
+-> validation using js.
