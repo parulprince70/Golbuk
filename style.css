@@ -145,7 +145,7 @@ form{
 
 .signin-signup{
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 75%;
     transform: translate(-50%, -50%);
     display: grid;
@@ -236,10 +236,27 @@ form.sign-up-form{
 
 } */
 .signup-signup{
+    padding:1rem;
     position: absolute;
-    top:40%;
-    left: 20%;
+    top:120%;
+    left: 50%;
     transform: translate(-50%, -50%);
     display: grid;
     grid-template-columns: 1fr;
+    z-index: 5;
 }
+.text{
+    align-items: center;
+    position: absolute;
+    left: 25%;
+}
+/* .left-panel.p2{
+    align-items: center;
+    position: absolute;
+    padding: 1rem;
+}
+.panel.left-panel.p3{
+    align-items: center;
+    position: absolute;
+    padding : 1rem;
+} */
